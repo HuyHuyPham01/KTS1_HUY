@@ -13,7 +13,7 @@ public class MainActivity5 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main5);
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle("HUY");
+        actionBar.setTitle("Danh sách tuyến");
         ((ActionBar) actionBar).setDisplayHomeAsUpEnabled(true);
     }
     @Override

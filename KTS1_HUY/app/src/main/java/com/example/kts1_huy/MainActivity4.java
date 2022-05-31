@@ -13,7 +13,7 @@ public class MainActivity4 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main4);
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle("HUY");
+        actionBar.setTitle("Chỉ tiêu bán hàng");
         ((ActionBar) actionBar).setDisplayHomeAsUpEnabled(true);
     }
     @Override
